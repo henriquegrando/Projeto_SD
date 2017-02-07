@@ -1,2 +1,2 @@
-# Projeto_SD
-Implementação do algoritmo KNN utilizando Apache Spark para o trabalho final da disciplina de Sistemas Distribuídos - USP.
+# Distributed Systems Project
+Implementation of KNN algorithm for performance evaluations on single and multi-node using Apache Spark versions.
